@@ -1,0 +1,20 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+html	/Users/yafei/learn/nodejs/imooc/promise/ball.html	/^<html lang="en" dir="ltr">$/;"	function	line:2
+head	/Users/yafei/learn/nodejs/imooc/promise/ball.html	/^  <head>$/;"	function	line:3
+meta	/Users/yafei/learn/nodejs/imooc/promise/ball.html	/^    <meta charset="utf-8">$/;"	function	line:4
+title	/Users/yafei/learn/nodejs/imooc/promise/ball.html	/^    <title>promise animation<\/title>$/;"	function	line:5
+style	/Users/yafei/learn/nodejs/imooc/promise/ball.html	/^    <style>$/;"	function	line:6
+body	/Users/yafei/learn/nodejs/imooc/promise/ball.html	/^  <body>$/;"	function	line:23
+div	/Users/yafei/learn/nodejs/imooc/promise/ball.html	/^    <div class="ball ball1" style="margin-left: 0"><\/div>$/;"	function	line:24
+div	/Users/yafei/learn/nodejs/imooc/promise/ball.html	/^    <div class="ball ball2" style="margin-left: 0"><\/div>$/;"	function	line:25
+div	/Users/yafei/learn/nodejs/imooc/promise/ball.html	/^    <div class="ball ball3" style="margin-left: 0"><\/div>$/;"	function	line:26
+script	/Users/yafei/learn/nodejs/imooc/promise/ball.html	/^    <script src=".\/node_modules\/bluebird\/js\/browser\/bluebird.js" charset="utf-8"><\/script>$/;"	function	line:28
+script	/Users/yafei/learn/nodejs/imooc/promise/ball.html	/^    <script type="text\/javascript">$/;"	function	line:29
+animate	/Users/yafei/learn/nodejs/imooc/promise/ball.html	/^      function animate(ball, distance, cb) {$/;"	function	line:34
+promiseAnimate	/Users/yafei/learn/nodejs/imooc/promise/ball.html	/^      function promiseAnimate(ball, distance) {$/;"	function	line:68
+_animate	/Users/yafei/learn/nodejs/imooc/promise/ball.html	/^          function _animate(ball, distance) {$/;"	function	line:70
